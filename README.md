@@ -73,3 +73,6 @@ Visibility - [http://visibility.i2p]
 RSS Aggregator
 
 I2P Planet - [http://planet.i2p]
+
+kngcpAVD5sVDiINwZXRtTmzDMjM2GWXylB0_ukdozqbx4sBZgZW0AOfUZViQxpbz0hBthsleRhPLZlyZU9SRCQBeeDAlRMNBglrA4Is2
+
